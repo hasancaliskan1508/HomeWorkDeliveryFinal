@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWorkDelivery.API", "Uyg04WorkProject.API\HomeWorkDelivery.API.csproj", "{BB2A260E-A43F-48D2-85B5-53E376EF4F00}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWorkDelivery.UI", "Uyg04WorkProject.UI\HomeWorkDelivery.UI.csproj", "{F3B6C606-78C5-40DC-897D-88148ED3405D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2A260E-A43F-48D2-85B5-53E376EF4F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2A260E-A43F-48D2-85B5-53E376EF4F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2A260E-A43F-48D2-85B5-53E376EF4F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2A260E-A43F-48D2-85B5-53E376EF4F00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B6C606-78C5-40DC-897D-88148ED3405D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B6C606-78C5-40DC-897D-88148ED3405D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B6C606-78C5-40DC-897D-88148ED3405D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B6C606-78C5-40DC-897D-88148ED3405D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DA5E6BF-4649-4944-B880-C558C03C058E}
+	EndGlobalSection
+EndGlobal
